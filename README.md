@@ -1,0 +1,1 @@
+####Vagrant env en Ubuntu 14.04 x64. Preinstaldo Symfony, Apache2 y MariaDB

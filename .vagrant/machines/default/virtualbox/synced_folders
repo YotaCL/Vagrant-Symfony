@@ -1,0 +1,1 @@
+{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/Narki/development/vagrant","disabled":false},"/var/www/localhost":{"guestpath":"/var/www/localhost","hostpath":"/Users/Narki/development/vagrant","disabled":false},"/var/www":{"guestpath":"/var/www","hostpath":"/Users/Narki/development/vagrant","disabled":false}}}
